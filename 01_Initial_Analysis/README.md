@@ -1,1 +1,1 @@
-(./01_Initial_Analysis/spring_damper_example_1.png)
+[Initial Scope Result](./spring_damper_example_1.png)

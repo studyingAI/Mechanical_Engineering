@@ -20,5 +20,6 @@ wn = 1.2Hz = 7.54Hz
 K1 = m1 * wn^2 = 142,125N/m
 b1 = $b = 2\zeta \sqrt{m_1 K} = 11,310\text{ Ns/m}$ (Target $\zeta = 0.3$)
 
+[final Scope Result](./spring_damper_example_2.png)
 
-
+settling time이 3초 정도로 줄어듬. 
